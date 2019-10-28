@@ -34,6 +34,8 @@ Waler : 在线交流社区
 
 ## when development/开发
 
+> 安装diesel时若提示`libpq`库错误, 则需安装 `sudo apt install libpq-dev`
+
 ```bash
 $ git clone https://github.com/kriry/waler.git
 $ cd waler
