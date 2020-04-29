@@ -1,6 +1,6 @@
-# Waler
+# Waler : 在线交流社区
 
-Waler : 在线交流社区
+[kriry.com](http://kriry.com) 使用 `waler`
 
 ## 架构
 
@@ -88,6 +88,6 @@ $ cargo build --release  // 在root/target目录生成二进制文件 `waler`
 
 ## License
 
-License is [here](https://github.com/kriry/waler/blob/master/LICENSE)
+License is [here](https://github.com/krircc/waler/blob/master/LICENSE)
 
 Copyright (c) 2018-present, krircc
