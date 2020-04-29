@@ -84,7 +84,7 @@ $ cargo build --release  // 在root/target目录生成二进制文件 `waler`
 
 ## Screen
 
-<img alt="Home" width="900" src="https://raw.githubusercontent.com/kriry/waler/master/waler.png">
+<img alt="Home" width="900" src="https://raw.githubusercontent.com/krircc/waler/master/waler.png">
 
 ## License
 
