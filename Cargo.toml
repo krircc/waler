@@ -23,7 +23,7 @@ postgres = {version= "0.15.2", features = ["with-chrono"]}
 dotenv = "0.14.1"
 chrono = { version = "0.4", features = ["serde"] }
 bcrypt = "0.4.0"
-env_logger = "0.5.10"
+env_logger = "0.11.3"
 futures = "0.1.21"
 pulldown-cmark = "0.1.2"
 timeago = "0.2.0"
